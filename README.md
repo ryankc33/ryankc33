@@ -15,6 +15,7 @@ Worked on:
 
 Working on
 - Applied AI on Elixir/BEAM. Particularly streaming voice STT/TTS tech.
+- Moltbot! A new project that I'm super excited about @[clawbber](www.clawbber.ai)!
 
 Play
 - Hit me up if you want to dive into code, or dive AND code.
